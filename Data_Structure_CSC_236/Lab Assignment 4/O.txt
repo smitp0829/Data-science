@@ -1,0 +1,180 @@
+Red
+Gerard
+USA
+Snowboarding
+MEN'S SLOPESTYLE
+1 
+Max
+Parrot
+Canada
+Snowboarding
+MEN'S SLOPESTYLE
+2
+Lindsey
+Jacobellis
+USA
+Snowboarding
+WOMEN'S SNOWBOARD CROSS
+4
+Eva
+Samková
+Czech Republic
+Snowboarding
+WOMEN'S SNOWBOARD CROSS
+3
+Benjamin
+Karl
+Austria
+Snowboarding
+MEN'S PARALLEL GIANT SLALOM
+5
+Lee
+Sang-Ho
+South Korea
+Snowboarding
+MEN'S PARALLEL GIANT SLALOM
+2
+Aaron
+Muss
+USA
+Snowboarding
+MEN'S PARALLEL GIANT SLALOM
+20
+Kamil
+Stoch
+Poland
+Ski Jumping
+MEN'S INDIVIDUAL - LARGE HILL
+1
+Andreas
+Wellinger
+Germany
+Ski Jumping
+MEN'S INDIVIDUAL - LARGE HILL
+2
+Robert
+Johansson
+Norway
+Ski Jumping
+MEN'S INDIVIDUAL - LARGE HILL
+3
+Taku
+Takeuchi
+Japan
+Ski Jumping
+MEN'S INDIVIDUAL - LARGE HILL
+22
+Janne
+Ahonen
+Finland
+Ski Jumping
+MEN'S INDIVIDUAL - LARGE HILL
+27
+Maren
+Lundby
+Norway
+Ski Jumping
+WOMEN'S INDIVIDUAL - NORMAL HILL
+1
+Sara
+Takanashi
+Japan
+Ski Jumping
+WOMEN'S INDIVIDUAL - NORMAL HILL
+3
+Daniela
+Iraschko-Stolz
+Austria
+Ski Jumping
+WOMEN'S INDIVIDUAL - NORMAL HILL
+6
+Park
+Guylim
+South Korea
+Ski Jumping
+WOMEN'S INDIVIDUAL - NORMAL HILL
+33
+Abby
+Ringquist
+USA
+Ski Jumping
+WOMEN'S INDIVIDUAL - NORMAL HILL
+29
+Marcel
+Hirscher
+Austria
+Alpine Skiing
+MEN'S ALPINE COMBINED
+1
+Alexis
+Pinturault
+France
+Alpine Skiing
+MEN'S ALPINE COMBINED
+2
+Broderick
+Thompson
+Canada
+Alpine Skiing
+MEN'S ALPINE COMBINED
+23
+Marko
+Vukicevic
+Serbia
+Alpine Skiing
+MEN'S ALPINE COMBINED
+25
+Yuri
+Danilochkin
+Belarus
+Alpine Skiing
+MEN'S ALPINE COMBINED
+34
+Laura
+Dahlmeier
+Germany
+Biathlon
+WOMEN'S 10KM PURSUIT
+1
+Anastasia
+Kuzmina
+Slovakia
+Biathlon
+WOMEN'S 10KM PURSUIT
+2
+Galina
+Vishnevskaya
+Kazakhstan
+Biathlon
+WOMEN'S 10KM PURSUIT
+20
+Weronika
+Nowakowska
+Poland
+Biathlon
+WOMEN'S 10KM PURSUIT
+30
+Katharina
+Innerhofer
+Austria
+Biathlon
+WOMEN'S 10KM PURSUIT
+40
+Shiva
+Keshavan
+India
+Luge
+MEN'S SINGLE
+34
+Andriy
+Mandziy
+Ukraine
+Luge
+MEN'S SINGLE
+40
+Nikita
+Kopyrenko
+Kazakhstan
+Luge
+MEN'S SINGLE
+36
