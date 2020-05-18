@@ -1,0 +1,11 @@
+x^-1
+2
+6
+100
+
+
+Output:
+Inline function:
+f(x) = x^-1
+
+1.098612

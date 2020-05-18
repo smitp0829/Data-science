@@ -1,0 +1,12 @@
+3
+-30
+0
+0
+1
+2.5
+0.001
+50
+
+
+Output:
+found the solution 3.107233 in 4 iterations

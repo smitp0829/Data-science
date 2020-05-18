@@ -1,0 +1,11 @@
+3
+1
+0
+-4
+1
+0.5
+0.01
+50
+
+Output:
+found the solution 0.537402 in 2 iterations
